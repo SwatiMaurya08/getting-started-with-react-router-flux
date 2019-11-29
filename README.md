@@ -1,3 +1,7 @@
+## [Wiki Page](https://github.com/SwatiMaurya08/getting-started-with-react-router-flux/wiki)
+
+It provide the details how you can get started with React, React Router, and Flux by building a data-driven application that manages course data. This repository uses a modern client-side development stack including create-react-app, Node, Webpack, Babel, and Bootstrap.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
